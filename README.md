@@ -28,15 +28,15 @@ The objective of the Moloch's Vault CTF Challenge is to steal at least 1 WEI fro
 
 ### Detailed formula for finding the slot of the dynamic struct
 
-Please refer to the [README](POC.md#detailed-formula-for-finding-the-slot-of-the-dynamic-struct) for the detailed formula.
+Please refer to the [Proof of concept](POC.md#detailed-formula-for-finding-the-slot-of-the-dynamic-struct) for the detailed formula.
 
 ### Details of decrypting Moloch-algorithm
 
-Please refer to the [README](POC.md#details-of-decrypting-moloch-algorithm) for the details of decrypting the Moloch-algorithm.
+Please refer to the [Proof of concept](POC.md#details-of-decrypting-moloch-algorithm) for the details of decrypting the Moloch-algorithm.
 
 ### Explain bypass for keccak256(abi.encodePacked())
 
-Please refer to the [README](POC.md#explain-bypass-for-keccak256abiencodepacked) for an explanation of the bypass.
+Please refer to the [Proof of concept](POC.md#explain-bypass-for-keccak256abiencodepacked) for an explanation of the bypass.
 
 ## Proof of Concept
 
