@@ -1,5 +1,7 @@
 # Proof of Concept for Moloch's Vault CTF Challenge
 
+https://quillctf.super.site/challenges/quillctf-challenges/molochs-vault
+
 ## Objective
 
 This document presents a proof of concept for the Moloch's Vault CTF Challenge. The objective of the challenge is to steal at least 1 WEI from the MolochVault contract.
