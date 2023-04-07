@@ -2,6 +2,8 @@
 
 This repository contains a proof of concept for the Moloch's Vault Capture The Flag (CTF) Challenge. The objective of the challenge is to steal at least 1 WEI from the MolochVault contract.
 
+https://quillctf.super.site/challenges/quillctf-challenges/molochs-vault
+
 ## Contents
 
 1. [Objective](#objective)
